@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://prediksi-hk-fb.github.io/phf-1/sitemap.xml
